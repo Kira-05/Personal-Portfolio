@@ -15,7 +15,10 @@ Overview of the Project
 ![Screenshot 2024-12-04 224206](https://github.com/user-attachments/assets/2bb0840b-375d-4526-9917-3967a5d9a2dd)
 
 
-Project:Create a personal portfolio website to showcase your projects, skills, and experience.
+Project: Create a personal portfolio website to showcase your projects, skills, and experience.
+
+Objective:
+The objective of creating a personal portfolio website is to showcase your skills, projects, and experience to potential employers or clients, establishing a professional online presence. It helps you learn and apply web development techniques like HTML, CSS, and JavaScript while practicing responsive design. The portfolio serves as a digital resume, enhancing your visibility and demonstrating technical proficiency.
 
 Key activities:
 1. Planning and Structuring
