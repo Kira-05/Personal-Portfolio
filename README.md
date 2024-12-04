@@ -12,6 +12,9 @@ Mentor: Santhosh Kumar
 
 Overview of the Project
 
+![Screenshot 2024-12-04 224206](https://github.com/user-attachments/assets/2bb0840b-375d-4526-9917-3967a5d9a2dd)
+
+
 Project:Create a personal portfolio website to showcase your projects, skills, and experience.
 
 Key activities:
